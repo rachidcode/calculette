@@ -1,6 +1,27 @@
 body {
-    background-color: lightgray;
-}
+    background-color: #FF573E;
+    animation: colorchange 20s;
+    animation-iteration-count: 300;
+    -webkit-animation: colorchange 20s; 
+    -webkit-animation-iteration-count: 300;
+  }
+     @keyframes colorchange
+      {
+        0%   {background: #ACF39D;}
+        25%  {background: #E85F5C;}
+        50%  {background: #9CFFFA;}
+        75%  {background: #773344;}
+        100% {background: #E3B5A4;}
+      }
+      @-webkit-keyframes colorchange 
+      {
+        0%   {background: red;}
+        25%  {background: yellow;}
+        50%  {background: blue;}
+        75%  {background: green;}
+        100% {background: red;}
+      }
+
 
 
 .contenair {
@@ -18,9 +39,7 @@ body {
 
 }
 
-
-
-.output {
+.aff {
     margin: 0 auto;
     width: 100%;
     background: white;
@@ -28,14 +47,23 @@ body {
     margin-bottom: 25px;
     margin-top: 50px;
     height: 100px;
-    font-size: 40px;
-    font-family: 'Lato', sans-serif;
+    font-size: 70px;
     border-radius: 25px;
+    font-family: 'Bungee Inline', cursive;
+  
 }
+
 
 button {
     font-size: 50px;
     width: 150px;
     height: 100px;
     border-radius: 25px;
+    font-family: 'Bungee Inline', cursive;
+    
 }
+button:hover{
+    background: #f66f15; 
+    transition: background 0.3s;
+    
+   }
