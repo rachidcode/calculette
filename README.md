@@ -21,6 +21,6 @@ touches de commande ( +, -, x, /), un bouton pour calculer le résultat ( =) et 
 
 ## Aperçu
 
-( https://rachidcode.github.io/calculette/.)
+https://rachidcode.github.io/calculette/.
 
 
