@@ -19,3 +19,8 @@ touches de commande ( +, -, x, /), un bouton pour calculer le résultat ( =) et 
 :white_check_mark: Javascript
 
 
+## Aperçu
+
+![Aperçu] ( https://rachidcode.github.io/calculette/.)
+
+
