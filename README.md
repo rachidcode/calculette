@@ -21,10 +21,6 @@ touches de commande ( +, -, x, /), un bouton pour calculer le résultat ( =) et 
 
 ## Aperçu
 
-https://rachidcode.github.io/calculette/.
-
-## Performance
-
-! [aperçu](https://googlechrome.github.io/lighthouse/viewer/?psiurl=https%3A%2F%2Frachidcode.github.io%2Fcalculette%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo&category=pwa&utm_source=lh-chrome-ext)
+https://rachidcode.github.io/calculette/
 
 
